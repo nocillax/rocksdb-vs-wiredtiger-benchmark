@@ -82,8 +82,12 @@ systemd-inhibit --what=idle:sleep:handle-suspend-key \
   <img src="results/figures/final_throughput.png" width="31%" />
   <img src="results/figures/final_hd_waf.png" width="31%" />
   <img src="results/figures/final_cpu_utilization.png" width="31%" />
+  <br>
+  <em>Aggregate throughput (ops/s), host-to-device write amplification (HD-WAF), and CPU utilization across workload skews.</em>
 </p>
 
 <p align="center">
   <img src="results/figures/final_host_write_rate.png" width="70%" />
+  <br>
+  <em>Temporal host-to-device write rate over the 30-minute measurement window.</em>
 </p>
