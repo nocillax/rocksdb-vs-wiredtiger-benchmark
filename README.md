@@ -78,10 +78,12 @@ systemd-inhibit --what=idle:sleep:handle-suspend-key \
 
 ## Experimental Results
 
-| Throughput | HD-WAF | CPU Utilization |
-| :---: | :---: | :---: |
-| <img src="results/figures/final_throughput.png" width="100%"> | <img src="results/figures/final_hd_waf.png" width="100%"> | <img src="results/figures/final_cpu_utilization.png" width="100%"> |
+<p align="center">
+  <img src="results/figures/final_throughput.png" width="31%" />
+  <img src="results/figures/final_hd_waf.png" width="31%" />
+  <img src="results/figures/final_cpu_utilization.png" width="31%" />
+</p>
 
 <p align="center">
-  <img src="results/figures/final_host_write_rate.png" width="65%" title="Host Write Rate" />
+  <img src="results/figures/final_host_write_rate.png" width="70%" />
 </p>
